@@ -100,6 +100,10 @@ The application includes error handling for:
 - In-memory document store is used for data privacy
 
 
+ ## Local URL: http://localhost:8501
+ ## Network URL: http://192.168.68.91:8501
+
+
 ![image](https://github.com/user-attachments/assets/595f7df0-0385-47f8-a59f-cc019d0d3409)
 
 
