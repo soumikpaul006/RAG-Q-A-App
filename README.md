@@ -99,4 +99,21 @@ The application includes error handling for:
 - Input validation is implemented for all file uploads
 - In-memory document store is used for data privacy
 
+
+![image](https://github.com/user-attachments/assets/595f7df0-0385-47f8-a59f-cc019d0d3409)
+
+
+![image](https://github.com/user-attachments/assets/9ce57155-5223-44e3-9684-3476022a21b0)
+
+
+![image](https://github.com/user-attachments/assets/f8919295-2f0f-46fe-8252-d735bffee262)
+
+
+![image](https://github.com/user-attachments/assets/f08b5cca-4ba5-49e8-b313-0dbb3891cbdc)
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/8b0a5df2-ae91-46c9-a63e-b95fd56a4b6f)
