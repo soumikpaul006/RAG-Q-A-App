@@ -99,8 +99,4 @@ The application includes error handling for:
 - Input validation is implemented for all file uploads
 - In-memory document store is used for data privacy
 
-  ## Local URL: http://localhost:8501
-  ## Network URL: http://192.168.68.91:8501
-
-
 ![image](https://github.com/user-attachments/assets/8b0a5df2-ae91-46c9-a63e-b95fd56a4b6f)
